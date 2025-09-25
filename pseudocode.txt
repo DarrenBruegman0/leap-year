@@ -1,0 +1,22 @@
+v2 = false
+v4 = false
+v100 = false
+v400 = false
+
+
+loop while true
+    input int
+    if x%2 ==0
+        v2 = true
+    if x%4 ==0
+        v4 = true
+    if x%100 ==0
+        v100 = true
+    if x%400 ==0
+        v400 = true
+    
+    if even && by4 && (by4 != by100 || (by100 == by400 && by100 == true):
+        print leap year
+    else
+        print not leap year
+    print v2\nv4\nv100\nv400

@@ -1,0 +1,14 @@
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\bin\Debug\net8.0\source.exe
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\bin\Debug\net8.0\source.deps.json
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\bin\Debug\net8.0\source.runtimeconfig.json
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\bin\Debug\net8.0\source.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\bin\Debug\net8.0\source.pdb
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.AssemblyInfoInputs.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.AssemblyInfo.cs
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.csproj.CoreCompileInputs.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\refint\source.dll
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.pdb
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\source.genruntimeconfig.cache
+C:\Users\db1027061\OneDrive - Ozarks Technical Community College\Documents\GitHub\leap-year\source\obj\Debug\net8.0\ref\source.dll
