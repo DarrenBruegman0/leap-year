@@ -9,8 +9,12 @@ while (true)
     bool by4 = false;
     bool by100 = false;
     bool by400 = false;
+    string y = "";
+    int x;
+    while (int.TryParse(y, out x) == false) {
     Console.Write("what year?   ");
-    int x = Convert.ToInt32(Console.ReadLine());
+    y = Console.ReadLine();
+    }
     //determines the divisibility
     if (x % 2 == 0)
     {
